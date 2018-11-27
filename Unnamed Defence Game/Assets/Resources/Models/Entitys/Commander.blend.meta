@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 63dd27eae24e9984a8ea6bac94713b7d
+timeCreated: 1541974201
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Foot
+    100004: Thigh
+    100006: Arms
+    100008: Foot_001
+    100010: Leg
+    100012: Leg_001
+    100014: Skirt
+    100016: Thigh_001
+    100018: Torso
+    100020: Foot1
+    100022: Foot2
+    100024: Leg1
+    100026: Leg2
+    100028: Thigh1
+    100030: Thigh2
+    400000: //RootNode
+    400002: Foot
+    400004: Thigh
+    400006: Arms
+    400008: Foot_001
+    400010: Leg
+    400012: Leg_001
+    400014: Skirt
+    400016: Thigh_001
+    400018: Torso
+    400020: Foot1
+    400022: Foot2
+    400024: Leg1
+    400026: Leg2
+    400028: Thigh1
+    400030: Thigh2
+    2300000: //RootNode
+    2300002: Foot
+    2300004: Thigh
+    2300006: Arms
+    2300008: Foot_001
+    2300010: Leg
+    2300012: Leg_001
+    2300014: Skirt
+    2300016: Thigh_001
+    2300018: Torso
+    2300020: Foot1
+    2300022: Foot2
+    2300024: Leg1
+    2300026: Leg2
+    2300028: Thigh1
+    2300030: Thigh2
+    3300000: //RootNode
+    3300002: Foot
+    3300004: Thigh
+    3300006: Arms
+    3300008: Foot_001
+    3300010: Leg
+    3300012: Leg_001
+    3300014: Skirt
+    3300016: Thigh_001
+    3300018: Torso
+    3300020: Foot1
+    3300022: Foot2
+    3300024: Leg1
+    3300026: Leg2
+    3300028: Thigh1
+    3300030: Thigh2
+    4300000: Leg
+    4300002: Thigh
+    4300004: Foot
+    4300006: Base
+    4300008: Skirt
+    4300010: Torso
+    4300012: Arms
+    4300014: Leg_001
+    4300016: Thigh_001
+    4300018: Foot_001
+    4300020: Leg2
+    4300022: Thigh2
+    4300024: Foot2
+    4300026: Leg1
+    4300028: Thigh1
+    4300030: Foot1
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.375
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
